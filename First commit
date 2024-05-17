@@ -1,6 +1,6 @@
 
 import random
-
+#function fo rolling the dice
 def roll_dice():
     dice = random.randint(1, 6)
     return dice
